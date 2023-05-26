@@ -1,0 +1,32 @@
+h1 {
+    
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 68px;
+    background-color: chartreuse;
+}
+
+body {
+
+    background-color: black;
+    color: lawngreen;
+
+}
+
+.imagem {
+    
+    border-style: double;
+    display:inline-block;
+    width: 500px;
+    
+}
+
+.lado {
+
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+}
+
+
