@@ -15,7 +15,33 @@ nav a {
     font-size: 30px;
     text-decoration: none;
 }
+nav{
+    
+}
 
-body{
+body {
     background-color: black;
+}
+
+.caixa {
+    position: relative;
+    width: 940;
+    margin: 0 auto;
+}
+.logotipo {
+    width: 15%;
+}
+
+.servicos {
+    width: 940px;    
+}
+
+.servicos li {
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+}
+
+.servicos img {
+    width: 200px;
 }
