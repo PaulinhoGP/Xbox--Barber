@@ -40,8 +40,10 @@ body {
     display: inline-block;
     text-align: center;
     width: 30%;
+    vertical-align: top;
 }
 
 .servicos img {
     width: 200px;
+    height: 200px;
 }
