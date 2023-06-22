@@ -1,5 +1,6 @@
 header {
-    background-color: aqua;
+    background-color: chartreuse;
+    text-align: center;
 }
 
 nav li {
@@ -9,8 +10,12 @@ nav li {
 
 nav a {
     text-transform: uppercase;
-    color: brown;
+    color: black;
     font-weight: bold;
     font-size: 30px;
     text-decoration: none;
+}
+
+body{
+    background-color: black;
 }
