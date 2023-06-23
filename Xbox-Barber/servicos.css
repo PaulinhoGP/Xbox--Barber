@@ -1,0 +1,57 @@
+header {
+    background-color: rgb(88, 87, 87);
+    text-align: center;
+}
+
+nav li {
+    display:inline;
+    margin-right: 10px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: chartreuse;
+    font-weight: bold;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+body {
+    background-color: chartreuse;
+}
+
+.caixa {
+    position: relative;
+    width: 940;
+    margin: 0 auto;
+}
+.logotipo {
+    width: 15%;
+}
+
+.servicos {
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px 0;
+}
+
+.servicos li {
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    margin: 0 1.5%;
+    padding: 30px 0px;
+    box-sizing: border-box;
+}
+
+.servicos img {
+    width: 200px;
+    height: 200px;
+}
+
+.preco {
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 10px;
+}

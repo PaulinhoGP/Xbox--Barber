@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+    color: black;
+    font-size: 68px;
+    background-color: chartreuse;
+}
+
+body {
+    text-align: center;
+    background-color: black;
+    color: lawngreen;
+}
+
+.imagem {
+    border-style: double;
+    width: 800px;
+}
+
+.lado {
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+}
+
+ul{
+    text-align: center;
+}
+
+
