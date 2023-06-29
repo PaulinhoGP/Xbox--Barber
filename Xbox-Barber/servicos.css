@@ -1,11 +1,12 @@
 header {
-    background-color: rgb(88, 87, 87);
+    background-color: black;
     text-align: center;
 }
 
 nav li {
     display:inline;
     margin-right: 10px;
+    color: chartreuse;
 }
 
 nav a {
@@ -54,4 +55,35 @@ body {
     font-size: 22px;
     font-weight: bold;
     margin-top: 10px;
+}
+
+h1 {
+    color: chartreuse;
+    text-align:center;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+p {
+    font-size: 25px;
+}
+
+footer {
+    text-align: center;
+}
+
+footer img {
+    width: 10%;
+}
+
+.copyright {
+    font-size: 13px;
+    margin: 20px 0;
+}
+
+ul {
+    font-size: 30px;
+    color: chartreuse;
 }

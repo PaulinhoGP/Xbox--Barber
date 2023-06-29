@@ -1,0 +1,35 @@
+h1 {
+    color: black;
+    background-color: chartreuse;
+    text-align: center;
+    font-size: 68px;
+}
+
+body {
+    background-color: black;
+}
+
+li {
+    color: chartreuse;
+    font-size: 30px;
+    display: inline;
+    margin: 10px;
+}
+
+header {
+    background-color: black;
+    text-align: center;
+}
+
+body {
+    background-color: chartreuse;
+}
+
+footer {
+    text-align: center;
+}
+
+.copyright {
+    font-size: 13px;
+    margin: 20px 0;
+}

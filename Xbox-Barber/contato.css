@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    color: chartreuse;
+    font-size: 40px;
+    background-color: black;
+}
+
+h1 {
+    font-size: 68px;
+    color: chartreuse;
+    background-color: chartreuse;
+}
+
+ul {
+    display: inline;
+    font-size: 30px;
+}
+
